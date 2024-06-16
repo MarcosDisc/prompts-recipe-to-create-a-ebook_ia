@@ -50,7 +50,7 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Fundamentos e Processos da Comunicação --v 5.1 |
 
 ## ✨ Features
 
@@ -77,13 +77,11 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/MarcosDisc">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/
 felipe-exe">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
